@@ -1,0 +1,8 @@
+D:\Năm 4\BTood\NguyenThiBachVien_1150080122\NguyenThiBachVien_1150080122\bin\Debug\NguyenThiBachVien_1150080122.exe.config
+D:\Năm 4\BTood\NguyenThiBachVien_1150080122\NguyenThiBachVien_1150080122\bin\Debug\NguyenThiBachVien_1150080122.exe
+D:\Năm 4\BTood\NguyenThiBachVien_1150080122\NguyenThiBachVien_1150080122\bin\Debug\NguyenThiBachVien_1150080122.pdb
+D:\Năm 4\BTood\NguyenThiBachVien_1150080122\NguyenThiBachVien_1150080122\obj\Debug\NguyenThiBachVien_1150080122.csproj.AssemblyReference.cache
+D:\Năm 4\BTood\NguyenThiBachVien_1150080122\NguyenThiBachVien_1150080122\obj\Debug\NguyenThiBachVien_1150080122.csproj.CoreCompileInputs.cache
+D:\Năm 4\BTood\NguyenThiBachVien_1150080122\NguyenThiBachVien_1150080122\obj\Debug\NguyenThiBachVien_1150080122.exe
+D:\Năm 4\BTood\NguyenThiBachVien_1150080122\NguyenThiBachVien_1150080122\obj\Debug\NguyenThiBachVien_1150080122.pdb
+D:\Năm 4\BTood\NguyenThiBachVien_1150080122\NguyenThiBachVien_1150080122\obj\Debug\NguyenThiBachVien_1150080122.exe.config
